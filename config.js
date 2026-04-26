@@ -24,7 +24,7 @@ const CONFIG = {
     },
 
     YOUTUBE_CHANNEL: {
-      LINK: "https://youtube.com/@shadowhere.460?si=vY16qBn3azUu85U4,
+      LINK: "https://youtube.com/@shadowhere.460?si=vY16qBn3azUu85U4",
       NAME: "HOW TO BE A HACKER"
     },
 
