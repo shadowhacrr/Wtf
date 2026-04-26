@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+
+# Data files (optional - keep or ignore based on preference)
+# data/*.json
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

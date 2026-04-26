@@ -1,0 +1,31 @@
+{
+  "name": "telegram-auto-reaction-views-bot",
+  "version": "1.0.0",
+  "description": "Premium Telegram Bot for Auto Reactions + Views with Verification, Limits, and Recharge System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "telegram-bot",
+    "auto-reaction",
+    "auto-views",
+    "telegram-marketing"
+  ],
+  "author": "Owner",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "input": "^1.0.1",
+    "telegram": "^2.26.16",
+    "big-integer": "^1.6.52",
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
