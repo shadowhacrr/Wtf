@@ -2,7 +2,7 @@
 // 🎨 UI MESSAGES & TEMPLATES
 // ═══════════════════════════════════════════════════════════
 
-const { CONFIG } = require("./config");
+const { CONFIG } = require("../config");
 
 const ICONS = {
   bot: "🤖",
